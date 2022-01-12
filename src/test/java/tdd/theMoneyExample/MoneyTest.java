@@ -5,8 +5,8 @@ import static org.junit.jupiter.api.Assertions.*;
 
 public class MoneyTest {
 
-    @Test
-  public void test Multiplication(){
+  @Test
+  public void Multiplication(){
       Dollar five = new Dollar(5);
 
       five.times(2);

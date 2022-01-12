@@ -1,2 +1,10 @@
-package tdd.theMoneyExample;public class Dollar {
+package tdd.theMoneyExample;
+
+class Dollar {
+  int amount = 10;
+  Dollar(int amount){
+  }
+  void times(int multiplier){
+  }
+
 }
